@@ -23,16 +23,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.java.com" target="blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.microsoft.com/en-us/sql-server" target="blank" rel="noreferrer"> <img
             src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
             height="40" /> </a>
 </p>
@@ -45,7 +45,7 @@
     <a href="https://x.com/yash__8055" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="imrsavaliya03" height="30" width="40" /></a>
-<!--     <a href="https://t.me/yash_01_12" target="blank"><img align="center"
+    <!-- <a href="https://t.me/yash_01_12" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
             alt="@yash_01_12" height="30" width="40" /></a> -->
     <a href="https://www.instagram.com/yash_patel.8055" target="blank"><img align="center"
