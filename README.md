@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kakadiyayash77@gmail.com**
 
-- ⚡ Fun fact **Mirrors facing each other don't produce infinite reflections.**
+- ⚡ Fun fact: **Why do programmers prefer dark mode ? Because light attracts Bugs!🐞**
 
 
 ###
